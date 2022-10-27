@@ -15,7 +15,7 @@ Repositório dedicado a resolução de exercícios para evoluir na linguagem JAV
 | ![vermelho](https://cloud.githubusercontent.com/assets/5847145/6166113/6326ad8c-b294-11e4-855d-9095eb7a5f45.png) | Exercício dando erro (Can't fix) |
 
 
-## Lista 1
+## Lista 1 (39 Exercícios)
 ### Estrutura Sequencial
 | Exercício  | Estado |
 | :---------------: | :---------------: |
@@ -36,7 +36,6 @@ Repositório dedicado a resolução de exercícios para evoluir na linguagem JAV
 | 15 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
 
 
-## Lista 2
 ### Estrutura Condicional
 | Exercício  | Estado |
 | :---------------: | :---------------: |
@@ -54,7 +53,6 @@ Repositório dedicado a resolução de exercícios para evoluir na linguagem JAV
 | 12 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
 
 
-## Lista 3
 ### Estrutura de Repetição - For
 | Exercício  | Estado |
 | :---------------: | :---------------: |
@@ -67,7 +65,6 @@ Repositório dedicado a resolução de exercícios para evoluir na linguagem JAV
 | 07 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
 
 
-## Lista 4
 ### Estrutura de Repetição - 
 | Exercício  | Estado |
 | :---------------: | :---------------: |
