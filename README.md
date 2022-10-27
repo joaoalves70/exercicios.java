@@ -65,7 +65,7 @@ Repositório dedicado a resolução de exercícios para evoluir na linguagem JAV
 | 07 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
 
 
-### Estrutura de Repetição - 
+### Estrutura de Repetição - While e Do-While
 | Exercício  | Estado |
 | :---------------: | :---------------: |
 | 01 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
