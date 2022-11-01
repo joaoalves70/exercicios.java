@@ -5,7 +5,7 @@
  *********************************************************************/
  
  import java.util.Scanner;
-public class Opera
+public class OperacoesMat
 {
 	public static void main(String[] args) {
 	    
