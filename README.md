@@ -1,6 +1,6 @@
 # Exercícios - JAVA
 
-Repositório dedicado a resolução de exercícios para evoluir na linguagem JAVA.
+Repositório dedicado a resolução de exercícios recebidos em aula na linguagem JAVA.
 
 **Atenção:** Qualquer tipo de correção é bem vinda, sinta-se livre para me enviar pull requests, melhorias, ideias de alteração, correções, issues, etc...
 
