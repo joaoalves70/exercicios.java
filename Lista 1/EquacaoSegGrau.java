@@ -15,11 +15,12 @@ public class EquacaoSegGrau
 	    System.out.print("Por favor informe o valor de C: ");
 	    c = ler.nextDouble();
 	    
-	    delta = (Math.pow(b,2))-((4*a)*c);
+	    delta = b*b - 4 * a * c;
 	    
-	    raiz1 = (-b+Math.sqrt(delta))/2*a;
+	    raiz1 = (double) (-b+Math.sqrt(delta))/(2*a);
 	    
-	    raiz2 = (-b-Math.sqrt(delta))/2*a;
+	    raiz2 = (double) (-b-Math.sqrt(delta))/(2*a);
 	    
 	    System.out.print("As raízes obtidas são: "+raiz1+" e "+raiz2);
 	}
+}
