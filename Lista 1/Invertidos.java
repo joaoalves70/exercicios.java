@@ -17,10 +17,7 @@ public class Main
 	    System.out.println("Digite o segundo número:");
 	    y = ler.nextDouble();
 	    
-	    xy = y;
-	    yx = x;
-	    
-	    System.out.println("O primeiro número digitado foi: "+xy+". E o segundo foi: "+yx);	    
+	    System.out.println("O primeiro número digitado foi: "+y+". E o segundo foi: "+x);	    
 	    
 	}
 }
