@@ -1,3 +1,9 @@
+/*********************************************************************************
+ *  6) 
+ *  Faça um programa que solicite ao usuário que informe os coeficientes
+ *  A, B e C de uma equação de segundo grau, e que imprima as raízes desta equação
+ *********************************************************************************/
+
 import java.util.Scanner;
 public class EquacaoSegGrau
 {
