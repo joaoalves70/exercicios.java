@@ -59,7 +59,7 @@ public class ListaSequencial
  *************************************************************************/
 
 import java.util.Scanner;
-public class ConversorDeMoedas
+public class ListaSequencial
 {
 	public static void main(String[] args) {
 	    
@@ -137,7 +137,7 @@ public class ListaSequencial
  *********************************************************************************/
 
 import java.util.Scanner;
-public class EquacaoSegGrau
+public class ListaSequencial
 {
 	public static void main(String[] args) {
 	    
@@ -170,7 +170,7 @@ public class EquacaoSegGrau
  ***********************************************************************************************/
 
 import java.util.Scanner;
-public class SalarioMin
+public class ListaSequencial
 {
 	public static void main(String[] args) {
 	    
@@ -192,7 +192,7 @@ public class SalarioMin
  *  Leia um um número e imprima a tabuada de multiplicar deste número.
  *************************************************************************/
 import java.util.Scanner;
-public class Tabuada
+public class ListaSequencial
 {
 	public static void main(String[] args) {
 	    int num;
@@ -212,7 +212,7 @@ public class Tabuada
  *********************************************************************/
  
  import java.util.Scanner;
-public class OperacoesMat
+public class ListaSequencial
 {
 	public static void main(String[] args) {
 	    
@@ -262,7 +262,7 @@ public class ListaSequencial
  *************************************************************************/
  
 import java.util.Scanner;
-public class sucessor
+public class ListaSequencial
 {
 	public static void main(String[] args) {
 	    
@@ -292,7 +292,7 @@ public class sucessor
  *************************************************************************/
 
 import java.util.Scanner;
-public class PesoIdealH
+public class ListaSequencial
 {
 	public static void main(String[] args) {
 	    double h, pesoideal;
@@ -315,7 +315,7 @@ public class PesoIdealH
  *************************************************************************/
 
 import java.util.Scanner;
-public class Main
+public class ListaSequencial
 {
 	public static void main(String[] args) {
 	    double h, pesoideal;
@@ -365,7 +365,7 @@ public class ListaSequencial
  ********************************************************************/
 
 import java.util.Scanner;
-public class Eleicao
+public class ListaSequencial
 {
 	public static void main(String[] args) {
 	    
