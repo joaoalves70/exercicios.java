@@ -4,7 +4,7 @@
 *  a maior e menor notas entre elas.
 **************************************************************/
 import java.util.Scanner;
-public class Main{
+public class Notas{
 	
 public static void main(String[] args) {
 	    
